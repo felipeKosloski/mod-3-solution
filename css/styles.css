@@ -1,0 +1,35 @@
+.box {
+    background-color: darkgrey;
+    
+    overflow: auto;
+}
+
+.menu-color {
+    background-color: white;
+    width: 100%;
+}
+.text-brand {
+
+    font-size: x-large ;
+    font-weight: bold;
+
+}
+
+#nav {
+    padding-left: 0px;
+    padding-bottom: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+.space-div {
+
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.center-div {
+
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
